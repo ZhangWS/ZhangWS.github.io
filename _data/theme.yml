@@ -24,7 +24,7 @@ email: wenshuo.zhang@gmail.com
 tagline: "Time is an illusion. Lunch time doubly so."
 
 # Google Analytics key, leave blank to ignore
-google_analytics_key: 
+google_analytics_key: UA-128315710-1
 
 # Toggle "Postings are my own" disclaimer in footer
 show_disclaimer: true
